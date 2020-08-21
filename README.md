@@ -9,6 +9,23 @@ This script is written using the python 3 language. Its main task is to check th
 
 > Данный скрипт написан с использованием языка python 3. Основаная его задача проверка доступности удаленных ресурсам, по подготовленному списку, с заданным  интервалом проверки. При запуске скрипта, ресурсы из заднного списка, пингуются, а по результатам времени ответа, формируется статус доступности. Пинг повторяется по списку через заданный интервал времени. При отсутствии подключения, производится запись в текстовый log файл ( в случае системы виндовс еще и звуковое оповещение).
 
+Fill in the list of checked resources, it can be both sites and computers and servers in your local network. Set the check interval. After that, simply run the script with administrator rights (in windows, CMD.exe must be run as administrator) this is due to the peculiarity of the operation of the services that do the ping. During the scan, the scan results will be displayed in the console.
+> Заполняете список проверяемых ресурсов, это могут быть как сайты, так и компьютеры и серверы в вашей локальной сети. Задаете интервал проверки. После чего просто запускаете скрипт с правами администратора (в системе windows, CMD.exe должна быть запущена от имени администратора) это связанно с особенностью работы служб, которые делают пинг. В ходе проверки в консоли будут выводиться результаты проверки. 
+
+
+Before starting the script for the first time, you need to install the following modules for Python:
+> Перед первым запуском скрипта, необходимо установить следующие модули для Python:
+
+pythonping (pip install pythonping)
+datetime (pip install datetime)
+time (pip install time)
+os (pip install os)
+
+If you are using the version with flowers, then you must also install:
+> Если вы уиспользуете версию с цветами то необходимо установить еще и:
+
+colorama  (pip install colorama) 
+
 ### Settings
 > Настройки
 
