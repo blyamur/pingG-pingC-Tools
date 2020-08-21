@@ -27,7 +27,7 @@ while True:
     cur_date_t = now.strftime("%d.%m.%Y %H:%M %S") #Formatting the date output
     os.system('cls||clear') #Clear the console
 
-    print('\n PINGc >-| Date:',cur_date_t,'| Check Interval:',sleep_interval,'sec.\n')
+    print('\n PINGg >-| Date:',cur_date_t,'| Check Interval:',sleep_interval,'sec.\n')
     print('\t|','Name      >  IP address             >  Ping  >\t Status')
     print('\t|');
     print('\t|--------------------------------------');
