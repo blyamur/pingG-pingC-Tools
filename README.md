@@ -17,7 +17,7 @@ pingG.py - option without colored labels
 
 ![pingG](https://github.com/blyamur/pingG-pingC/blob/master/images/pingg.jpg)
 
-pingC.py - color-coded variant (requires [colorama] module (https://github.com/tartley/colorama)
+pingC.py - color-coded variant (requires [colorama] module (https://github.com/tartley/colorama))
 
 ![pingC](https://github.com/blyamur/pingG-pingC/blob/master/images/pingc.jpg)
 
@@ -25,7 +25,7 @@ pingC.py - color-coded variant (requires [colorama] module (https://github.com/t
 
 > pingG.py - вариант без цветных меток
 
-> pingC.py - вариант с цветными метками (необходим модуль [colorama](https://github.com/tartley/colorama)
+> pingC.py - вариант с цветными метками (необходим модуль [colorama](https://github.com/tartley/colorama))
 
 
 -----
