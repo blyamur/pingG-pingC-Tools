@@ -17,3 +17,20 @@ source = {'8.8.8.8': 'Google',  #список в виде "адрес и наз�
 
 
 ![pingG-pingC](https://github.com/blyamur/pingG-pingC/blob/master/images/icon.jpg)
+
+### Copyrights and Licenses
+Not for commercial use.
+
+2020  [Mons](https://blog.mons.ws)
+
+
+### Did you find this useful?!
+> Вы нашли это  полезным ?!
+
+Happy to hear that :) *If You want to help me, you can support me on [PayPal](https://paypal.me/enkonu)*
+
+> Рад это слышать :) Если вы хотите мне помочь, вы можете поддержать меня материально
+
+
+*Thanks for reading :heart_eyes_cat:*
+> Спасибо за чтение!
