@@ -16,7 +16,7 @@ Fill in the list of checked resources, it can be both sites and computers and se
 Before starting the script for the first time, you need to install the following modules for Python:
 > Перед первым запуском скрипта, необходимо установить следующие модули для Python:
 
-pythonping (pip install pythonping)
+[pythonping](https://github.com/alessandromaggio/pythonping) (pip install pythonping)
 
 datetime (pip install datetime)
 
@@ -27,7 +27,7 @@ os (pip install os)
 If you are using the version with flowers, then you must also install:
 > Если вы уиспользуете версию с цветами то необходимо установить еще и:
 
-colorama  (pip install colorama) 
+[colorama](https://github.com/tartley/colorama) (pip install colorama)  
 
 ### Settings
 > Настройки
@@ -38,13 +38,24 @@ sleep_interval = 30  # (In seconds) Check Interval
 source = {'8.8.8.8': 'Google',  #list of addresses and names. For example 'IP or domain': 'Source name',
            'yandex.ru': 'ya.ru'}
 ```
->В скрипте можно вручную задать следующие параметры:
+> В скрипте можно вручную задать следующие параметры:
 ```
 sleep_interval = 30  # (В секундах) Интервал проверки
 source = {'8.8.8.8': 'Google',  #список в виде "адрес и название". Для примера 'IP адресили домен': 'Название ресурса',
            'yandex.ru': 'ya.ru'}
 ```
 
+The general process is simple and is performed only once if the list of verified resources does not change
+> Общий процесс прост и выполняется только один раз, если список прверяемых ресурсов не изменяется
+
+1. Download the script.
+> 1. Скачиваете скрипт.
+2. Install the required modules.
+> 2. Устанавливаете необходимые модули.
+3. Fill out the address list.
+> 3. Заполняете список адресов. 
+4. Run the script.
+> 4. Запускаете скрипт. 
 
 ![pingG-pingC](https://github.com/blyamur/pingG-pingC/blob/master/images/icon.jpg)
 
