@@ -9,6 +9,18 @@ This script is written using the python 3 language. Its main task is to check th
 
 > Данный скрипт написан с использованием языка python 3. Основаная его задача проверка доступности удаленных ресурсам, по подготовленному списку, с заданным  интервалом проверки. При запуске скрипта, ресурсы из заднного списка, пингуются, а по результатам времени ответа, формируется статус доступности. Пинг повторяется по списку через заданный интервал времени. При отсутствии подключения, производится запись в текстовый log файл ( в случае системы виндовс еще и звуковое оповещение).
 
+Two versions of the script are presented
+
+pingG.py - option without colored labels
+
+pingC.py - color-coded variant (requires [colorama] module (https://github.com/tartley/colorama)
+
+> Представлены две версии скрипта
+
+> pingG.py - вариант без цветных меток
+
+> pingC.py - вариант с цветными метками (необходим модуль [colorama](https://github.com/tartley/colorama)
+
 Fill in the list of checked resources, it can be both sites and computers and servers in your local network. Set the check interval. After that, simply run the script with administrator rights (in windows, CMD.exe must be run as administrator) this is due to the peculiarity of the operation of the services that do the ping. During the scan, the scan results will be displayed in the console.
 > Заполняете список проверяемых ресурсов, это могут быть как сайты, так и компьютеры и серверы в вашей локальной сети. Задаете интервал проверки. После чего просто запускаете скрипт с правами администратора (в системе windows, CMD.exe должна быть запущена от имени администратора) это связанно с особенностью работы служб, которые делают пинг. В ходе проверки в консоли будут выводиться результаты проверки. 
 
@@ -44,6 +56,8 @@ sleep_interval = 30  # (В секундах) Интервал проверки
 source = {'8.8.8.8': 'Google',  #список в виде "адрес и название". Для примера 'IP адресили домен': 'Название ресурса',
            'yandex.ru': 'ya.ru'}
 ```
+### Start
+> Запуск
 
 The general process is simple and is performed only once if the list of verified resources does not change
 > Общий процесс прост и выполняется только один раз, если список прверяемых ресурсов не изменяется
