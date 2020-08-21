@@ -17,8 +17,11 @@ Before starting the script for the first time, you need to install the following
 > Перед первым запуском скрипта, необходимо установить следующие модули для Python:
 
 pythonping (pip install pythonping)
+
 datetime (pip install datetime)
+
 time (pip install time)
+
 os (pip install os)
 
 If you are using the version with flowers, then you must also install:
