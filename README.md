@@ -2,6 +2,8 @@
 Python script for ping remote resources through the list every with a check interval (with and without color labels)
 > Скрипт на Python для пинга удаленных ресурсов по списку, с заданным интервалом проверки (с цветными метками и без них)
 
+![pingG-pingC](https://github.com/blyamur/pingG-pingC/blob/master/images/icon.jpg)
+
 ### Description
 > Описание
 
@@ -12,10 +14,13 @@ This script is written using the python 3 language. Its main task is to check th
 Two versions of the script are presented
 
 pingG.py - option without colored labels
+
 ![pingG](https://github.com/blyamur/pingG-pingC/blob/master/images/pingg.jpg)
 
 pingC.py - color-coded variant (requires [colorama] module (https://github.com/tartley/colorama)
+
 ![pingC](https://github.com/blyamur/pingG-pingC/blob/master/images/pingc.jpg)
+
 > Представлены две версии скрипта
 
 > pingG.py - вариант без цветных меток
@@ -72,7 +77,6 @@ The general process is simple and is performed only once if the list of verified
 4. Run the script.
 > 4. Запускаете скрипт. 
 
-![pingG-pingC](https://github.com/blyamur/pingG-pingC/blob/master/images/icon.jpg)
 
 ### Copyrights and Licenses
 Not for commercial use.
