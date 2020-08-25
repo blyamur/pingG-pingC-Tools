@@ -81,8 +81,8 @@ The general process is simple and is performed only once if the list of verified
 4. Run the script.
 > 4. Запускаете скрипт. 
 
-This script does not claim to be original or correct. As it is, the main thing is that it completely allows you to solve the tasks.
-> Данный скрипт не претендует на оригинальность и правильность. Как есть, главное он вполне позволяет решать поставленные задачи.
+This script does not claim to be original or correct. It is provided as is, the main thing is that it completely allows you to solve the tasks.
+> Данный скрипт не претендует на оригинальность и правильность. Предоставляется как есть, главное он вполне позволяет решать поставленные задачи.
 
 ### Copyrights and Licenses
 Not for commercial use.
