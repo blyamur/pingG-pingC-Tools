@@ -46,7 +46,7 @@ time (pip install time)
 os (pip install os)
 
 If you are using the version with flowers, then you must also install:
-> Если вы уиспользуете версию с цветами то необходимо установить еще и:
+> Если вы используете версию с цветами то необходимо установить еще и:
 
 [colorama](https://github.com/tartley/colorama) (pip install colorama)  
 
