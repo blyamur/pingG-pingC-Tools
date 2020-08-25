@@ -33,6 +33,8 @@ pingC.py - color-coded variant (requires module [colorama](https://github.com/ta
 Fill in the list of checked resources, it can be both sites and computers and servers in your local network. Set the check interval. After that, simply run the script with administrator rights (in windows, CMD.exe must be run as administrator) this is due to the peculiarity of the operation of the services that do the ping. During the scan, the scan results will be displayed in the console.
 > Заполняете список проверяемых ресурсов, это могут быть как сайты, так и компьютеры и серверы в вашей локальной сети. Задаете интервал проверки. После чего просто запускаете скрипт с правами администратора (в системе windows, CMD.exe должна быть запущена от имени администратора) это связанно с особенностью работы служб, которые делают пинг. В ходе проверки в консоли будут выводиться результаты проверки. 
 
+### Start
+> Запуск
 
 Before starting the script for the first time, you need to install the following modules for Python:
 > Перед первым запуском скрипта, необходимо установить следующие модули для Python:
@@ -65,8 +67,7 @@ sleep_interval = 30  # (В секундах) Интервал проверки
 source = {'8.8.8.8': 'Google',  #список в виде "адрес и название". Для примера 'IP адресили домен': 'Название ресурса',
            'yandex.ru': 'ya.ru'}
 ```
-### Start
-> Запуск
+
 
 The general process is simple and is performed only once if the list of verified resources does not change
 > Общий процесс прост и выполняется только один раз, если список прверяемых ресурсов не изменяется
