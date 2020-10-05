@@ -16,11 +16,11 @@ This script is written using the python 3 language. Its main task is to check th
 
 pingG.py - option without colored labels
 
-[![pingG](https://github.com/blyamur/pingG-pingC/blob/master/images/pingg.jpg)]
+[![pingG](https://github.com/blyamur/pingG-pingC/blob/master/images/pingg.jpg)](https://github.com/blyamur/pingG-pingC)
 
 pingC.py - color-coded variant (requires module [colorama](https://github.com/tartley/colorama))
 
-[![pingC](https://github.com/blyamur/pingG-pingC/blob/master/images/pingc.jpg)]
+[![pingC](https://github.com/blyamur/pingG-pingC/blob/master/images/pingc.jpg)](https://github.com/blyamur/pingG-pingC)
 
 > Представлены две версии скрипта
 
