@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 81 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(2.19154,0,0,1.14171,0,0)">
+        <clipPath id="_clip1">
+            <path d="M30.446,2.628C30.446,1.177 29.832,0 29.077,0L1.369,0C0.613,0 0,1.177 0,2.628L0,14.89C0,16.34 0.613,17.518 1.369,17.518L29.077,17.518C29.832,17.518 30.446,16.34 30.446,14.89L30.446,2.628Z"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g transform="matrix(0.4563,-0,-0,0.87588,0,0)">
+                <use xlink:href="#_Image2" x="0" y="0" width="66.723px" height="20px" transform="matrix(0.995865,0,0,1,0,0)"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(2.19154,0,0,1.14171,0,0)">
+        <path d="M30.446,2.628C30.446,1.177 29.832,0 29.077,0L1.369,0C0.613,0 0,1.177 0,2.628L0,14.89C0,16.34 0.613,17.518 1.369,17.518L29.077,17.518C29.832,17.518 30.446,16.34 30.446,14.89L30.446,2.628Z" style="fill:rgb(13,121,242);"/>
+    </g>
+    <g transform="matrix(0.468321,0,0,1,43.066,0)">
+        <path d="M39,0L78,0C79.656,0 81,1.344 81,3L81,17C81,18.656 79.656,20 78,20L39,20L39,0Z" style="fill:rgb(236,57,57);"/>
+    </g>
+    <g transform="matrix(0.542044,0,0,0.542044,-2.13782,6.60348)">
+        <text x="7.849px" y="10.084px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;fill:rgb(235,235,235);">FROM</text>
+        <text x="42.214px" y="10.084px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:10.667px;fill:rgb(235,235,235);">RUSSIA</text>
+        <text x="85.479px" y="10.084px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;fill:rgb(235,235,235);">WITH</text>
+    </g>
+    <g transform="matrix(0.88141,0,0,1.11719,4.75913,0.196653)">
+        <path d="M74.91,5.988C75.88,5.228 77.821,5.228 78.791,5.919C79.762,6.61 79.762,7.993 78.791,9.376C78.112,10.413 76.366,11.45 74.91,12.141C73.454,11.45 71.708,10.413 71.029,9.376C70.058,7.993 70.058,6.61 71.029,5.919C71.999,5.228 73.94,5.228 74.91,5.988Z" style="fill:white;"/>
+    </g>
+    <defs>
+        <image id="_Image2" width="67px" height="20px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEMAAAAUCAYAAADWQYA8AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA1ElEQVRYhe2WUQ7DIAxDYeI23P96sC+mqISWmCRlEu9rqjQ72KlozDnXwBBj5B7D7KzXtFIphRWvlc0IMtldr2ml9kNDfGSyokGxDvS3Gaggh0YImuXM6ibEFPnP7DuOhqBRELQZkiEkw0g1Uf2RB7QZyBCSA67ONOPFeQxvE22eDqjpjxbU3SbWoYzgDuBdUPea3KXqHZR3QV0Yd8ba190sXgUlifEbWH7TXFm+TSgW6+xZTrcZK+y2VSHIClINY0ckBX0M5/g7ThiEEwbhhEE4YRC+e8GFlyo94EYAAAAASUVORK5CYII="/>
+    </defs>
+</svg>

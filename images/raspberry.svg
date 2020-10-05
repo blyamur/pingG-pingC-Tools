@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 81 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(2.19154,0,0,1.14171,0,0)">
+        <clipPath id="_clip1">
+            <path d="M30.446,2.628C30.446,1.177 29.832,0 29.077,0L1.369,0C0.613,0 0,1.177 0,2.628L0,14.89C0,16.34 0.613,17.518 1.369,17.518L29.077,17.518C29.832,17.518 30.446,16.34 30.446,14.89L30.446,2.628Z"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g transform="matrix(0.4563,-0,-0,0.87588,0,0)">
+                <use xlink:href="#_Image2" x="0" y="0" width="66.723px" height="20px" transform="matrix(0.995865,0,0,1,0,0)"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(0.511007,0,0,1,39.6084,0)">
+        <path d="M39,0L78,0C79.656,0 81,1.344 81,3L81,17C81,18.656 79.656,20 78,20L39,20L39,0Z" style="fill:url(#_Linear3);"/>
+    </g>
+    <g transform="matrix(0.511007,0,0,1,39.6084,0)">
+        <path d="M39,0L78,0C79.656,0 81,1.344 81,3L81,17C81,18.656 79.656,20 78,20L39,20L39,0Z" style="fill:url(#_Linear4);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-0.630436,2.61147)">
+        <text x="7.849px" y="10.084px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;fill:rgb(235,235,235);">raspberry</text>
+    </g>
+    <g transform="matrix(1,0,0,1,59.6438,3.79636)">
+        <text x="7.849px" y="10.084px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:10.667px;fill:rgb(235,235,235);">4</text>
+    </g>
+    <defs>
+        <image id="_Image2" width="67px" height="20px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEMAAAAUCAYAAADWQYA8AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA1ElEQVRYhe2WUQ7DIAxDYeI23P96sC+mqISWmCRlEu9rqjQ72KlozDnXwBBj5B7D7KzXtFIphRWvlc0IMtldr2ml9kNDfGSyokGxDvS3Gaggh0YImuXM6ibEFPnP7DuOhqBRELQZkiEkw0g1Uf2RB7QZyBCSA67ONOPFeQxvE22eDqjpjxbU3SbWoYzgDuBdUPea3KXqHZR3QV0Yd8ba190sXgUlifEbWH7TXFm+TSgW6+xZTrcZK+y2VSHIClINY0ckBX0M5/g7ThiEEwbhhEE4YRC+e8GFlyo94EYAAAAASUVORK5CYII="/>
+        <linearGradient id="_Linear3" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(6.9349e-16,-11.3255,11.3255,6.9349e-16,60,15.5479)"><stop offset="0" style="stop-color:rgb(90,10,62);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(112,3,147);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear4" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(6.9349e-16,-11.3255,11.3255,6.9349e-16,60,15.5479)"><stop offset="0" style="stop-color:rgb(163,20,185);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(235,55,251);stop-opacity:1"/></linearGradient>
+    </defs>
+</svg>
