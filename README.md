@@ -4,9 +4,6 @@ Python script for ping remote resources through the list every with a check inte
 
 
 
-[![pingG-pingC](https://github.com/blyamur/pingG-pingC/blob/master/images/python.svg)](https://github.com/blyamur/pingG-pingC)[![pingG-pingC](https://github.com/blyamur/pingG-pingC/blob/master/images/raspberry.svg)](https://github.com/blyamur/pingG-pingC)[![pingG-pingC](https://github.com/blyamur/pingG-pingC/blob/master/images/raspberry.svg)](https://github.com/blyamur/pingG-pingC)
-[![pingG-pingC](https://github.com/blyamur/pingG-pingC/blob/master/images/thx.svg)](https://github.com/blyamur/pingG-pingC)[![pingG-pingC](https://github.com/blyamur/pingG-pingC/blob/master/images/frwl.svg)](https://github.com/blyamur/pingG-pingC)
-
 ![pingG-pingC](https://github.com/blyamur/pingG-pingC/blob/master/images/icon.jpg)
 
 ### Description
