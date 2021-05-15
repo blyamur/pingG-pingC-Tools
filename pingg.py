@@ -3,11 +3,9 @@ import datetime
 import time
 import os
 
-
 sleep_interval = 30  # (In seconds) Check Interval
 source = {'8.8.8.8': 'Google',  #list of addresses and names. For example 'IP or domain': 'Source name',
            'yandex.ru': 'ya.ru'}
-
 
 def stat_ip_logs(ping,ip_source,name_source): #resource availability check function #Logging function if ping is high
     if ping <= 500:
@@ -52,5 +50,3 @@ while True:
        print('\r \t ' + str(x), end="\r")
        time.sleep(1)
     continue
-
-
