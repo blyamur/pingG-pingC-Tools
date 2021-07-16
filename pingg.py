@@ -2,7 +2,7 @@ from pythonping import ping
 import datetime
 import time
 import os
-
+__author__ = "Mons (https://blog.mons.ws)"
 sleep_interval = 30  # (In seconds) Check Interval
 source = {'8.8.8.8': 'Google',  #list of addresses and names. For example 'IP or domain': 'Source name',
            'yandex.ru': 'ya.ru'}
