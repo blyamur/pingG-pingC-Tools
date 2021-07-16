@@ -4,7 +4,7 @@ import time
 import os
 import colorama
 from colorama import Fore, Style
-
+__author__ = "Mons (https://blog.mons.ws)"
 colorama.init()
 sleep_interval = 30  # (In seconds) Check Interval
 source = {'8.8.8.8': 'Google',  #list of addresses and names. For example 'IP or domain': 'Source name',
