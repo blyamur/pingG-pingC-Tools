@@ -88,7 +88,7 @@ This script does not claim to be original or correct. It is provided as is, the 
 ### Copyrights and Licenses
 Not for commercial use.
 
-2022  [Mons](https://blog.mons.ws)
+© 2022
 
 <!--
 ### Did you find this useful?!
