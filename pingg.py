@@ -47,6 +47,6 @@ while True:
     print('\t|--------------------------------------\n');
     #Countdown timer
     for x in reversed(range(sleep_interval)):
-       print('\r \t ' + str(x), end="\r")
+       print('\r\t Refresh after:  '+str(sleep_interval - x),end=" sec.\r")
        time.sleep(1)
     continue
