@@ -8,9 +8,11 @@ This script is written using the python 3 language. Its main task is to check th
 
 > Данный скрипт написан с использованием языка python 3. Основная его задача проверка доступности удаленных ресурсам, по подготовленному списку, с заданным  интервалом проверки. При запуске скрипта, ресурсы из заднного списка, пингуются, а по результатам времени ответа, формируется статус доступности. Пинг повторяется по списку через заданный интервал времени. При отсутствии подключения, производится запись в текстовый log файл ( в случае системы виндовс еще и звуковое оповещение).
 
+Updated 02/12/2025
+
 pingC.py - color-coded variant (requires module [colorama](https://github.com/tartley/colorama))
 
-[![pingC](https://raw.githubusercontent.com/blyamur/pingG-pingC-Tools/refs/heads/master/images/pingc.jpg)](https://github.com/blyamur/pingG-pingC)
+[![pingC](https://github.com/blyamur/pingC/blob/master/images/pingc.jpg)](https://github.com/blyamur/pingG-pingC)
 
 > pingC.py - вариант с цветными метками (необходим модуль [colorama](https://github.com/tartley/colorama))
 
@@ -81,4 +83,4 @@ Happy to hear that :) *If You want to help me, you can buy me a cup of coffee :c
 > Спасибо за чтение!
 
 
-© 2022
+© 2025
