@@ -1,2 +1,6 @@
 pythonping
 colorama
+pyautogui
+datetime
+time
+os
