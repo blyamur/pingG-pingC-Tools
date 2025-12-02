@@ -17,7 +17,6 @@ pingC.py - color-coded variant (requires module [colorama](https://github.com/ta
 
 > pingC.py - вариант с цветными метками (необходим модуль [colorama](https://github.com/tartley/colorama))
 
-
 -----
 
 Fill in the list of checked resources, it can be both sites and computers and servers in your local network. Set the check interval. After that, simply run the script with administrator rights (in windows, CMD.exe must be run as administrator) this is due to the peculiarity of the operation of the services that do the ping. During the scan, the scan results will be displayed in the console.
