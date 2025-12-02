@@ -107,7 +107,7 @@ Color / Цвет	Status / Статус	Ping / Пинг	Description / Описа�
 
 
 ### Example Output / Пример вывода
-[![pingC](https://github.com/blyamur/pingC/blob/master/images/pingc.jpg)](https://github.com/blyamur/pingG-pingC)
+[![pingC](https://raw.githubusercontent.com/blyamur/pingC/refs/heads/master/pingc.jpg)](https://github.com/blyamur/pingC)
 
 ### File Structure / Структура файлов
 ``` 
