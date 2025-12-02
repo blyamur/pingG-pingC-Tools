@@ -2,9 +2,6 @@
 Python script for ping remote resources through the list every with a check interval (with and without color labels)
 > Скрипт на Python для пинга удаленных ресурсов по списку, с заданным интервалом проверки (с цветными метками и без них)
 
-
-[![pingG-pingC](https://github.com/blyamur/pingG-pingC/blob/master/images/icon.jpg)](https://github.com/blyamur/pingG-pingC)
-
 ### Description | Описание
 
 This script is written using the python 3 language. Its main task is to check the availability of remote resources, according to a prepared list, with a given check interval. When the script is launched, the resources from the back list are pinged, and based on the response time results, the availability status is generated. Ping repeats through the list at a specified time interval. If there is no connection, it is written to a text log file (in the case of a Windows system, there is also a sound notification).
@@ -13,7 +10,7 @@ This script is written using the python 3 language. Its main task is to check th
 
 pingC.py - color-coded variant (requires module [colorama](https://github.com/tartley/colorama))
 
-[![pingC](https://github.com/blyamur/pingG-pingC/blob/master/images/pingc.jpg)](https://github.com/blyamur/pingG-pingC)
+[![pingC](https://raw.githubusercontent.com/blyamur/pingG-pingC-Tools/refs/heads/master/images/pingc.jpg)](https://github.com/blyamur/pingG-pingC)
 
 > pingC.py - вариант с цветными метками (необходим модуль [colorama](https://github.com/tartley/colorama))
 
