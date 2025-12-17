@@ -3,7 +3,7 @@
 Python script for continuous ping monitoring with colored status indicators and logging.  
 Скрипт на Python для постоянного мониторинга доступности ресурсов с цветными статусами и логированием.
 
-Updated 02/12/2025
+Updated 17/12/2025
 
 ---
 
