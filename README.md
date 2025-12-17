@@ -96,11 +96,11 @@ Columns: Display columns automatically adjust to fit the longest hostname/IP
 ###  Status Indicators / Индикаторы статуса
 Color / Цвет	Status / Статус	Ping / Пинг	Description / Описание
 
-🟢 GREEN	ONLINE	< 20 ms	Good connection / Хорошее соединение
+🟢 GREEN	ONLINE	< 35 ms	Good connection / Хорошее соединение
 
-🔵 CYAN	FREEZE	20–50 ms	Minor delay / Небольшая задержка
+🔵 CYAN	FREEZE	35–60 ms	Minor delay / Небольшая задержка
 
-🟡 YELLOW	SLEEP	50–300 ms	Significant delay / Значительная задержка
+🟡 YELLOW	SLEEP	60–300 ms	Significant delay / Значительная задержка
 
 🔴 RED	OFFLINE	> 300 ms	Connection lost / Соединение потеряно
 
